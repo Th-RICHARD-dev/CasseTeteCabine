@@ -1,4 +1,4 @@
-document.addEventListener('DOMContentLoaded', () => {
+ocument.addEventListener('DOMContentLoaded', () => {
     const points = [
         { angle: 0, radius: 20, data: 'gjridgbid' },
         { angle: 45, radius: 40, data: 'hrduigq' },

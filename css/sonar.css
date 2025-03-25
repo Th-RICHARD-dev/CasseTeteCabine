@@ -8,7 +8,7 @@ body {
     justify-content: center;
     align-items: center;
     align-items: flex-start;
-    gap: 20px; /* Espace entre sonarScreen et info */
+    gap: 20px;
 }
 
 #sonarScreen {
